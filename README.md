@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Mobile Application Development 
 - 📫 Reach me for suggestions and queries at 'kartikpancholi10.kp@gmail.com'
 - 📚 Bachelor of Technology in Information Technology (Nirma University) 
+- 📚 Pursuing Post Graduate in Mobile Application Development from Fanshawe College
 
 <!---
 kartikpancholi/kartikpancholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
